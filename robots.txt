@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://negrellieteixeira.com.br/sitemap.xml
